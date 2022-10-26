@@ -30,7 +30,7 @@ Navigate to **Admin | Scripts** and create a script for the HB and RPC using the
 | Name        | Windows Local Account RPC                                                                   |
 | Description | Script for password rotation local user with privileged                                     |
 | Category    | Password Changing                                                                           |
-| Script      | Paste contents of the RPC script [windows-local-wpriv-rpc.ps1](windows-local-wpriv-rpc.ps1) |
+| Script      | Paste contents of the RPC script [Email_Template.html](Email_Template.html) |
 
 ### Create Password Changer
 
